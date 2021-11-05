@@ -1,0 +1,12 @@
+{
+  "name": "lazy-chill",
+  "version": "1.0.0",
+  "description": "Lazy Chill (Alexa Skill)",
+  "main": "index.js",
+  "author": "Berliner95, https://fiverr.com/berliner95",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.19.0",
+    "aws-sdk": "^2.326.0"
+  }
+}
